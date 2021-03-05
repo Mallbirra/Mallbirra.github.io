@@ -1,3 +1,38 @@
 img {
     border-radius: 50%;
-  }
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-color: #FDF2E9;
+}
+h1 {
+    color: #1C2833;
+    font-family: Verdana, sans-serif;
+}
+p {
+    color: #5D6D7E;
+    font-family: Verdana, sans-serif;
+}
+div {
+    margin: 25px;
+}
+li{
+    color: #5D6D7E;
+    font-family: Verdana, sans-serif;
+}
+.center {
+    text-align: center;
+}
+.cw {
+    text-align: left;
+    color: #F39C12;
+    font-family: Verdana, sans-serif;
+}
+.thick {
+    font-weight: bold;
+}
+.underlined{
+    text-decoration: underline;
+}
